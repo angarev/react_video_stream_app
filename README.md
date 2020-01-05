@@ -21,7 +21,7 @@ I used OBS studio [LINK](https://obsproject.com/) to start live streaming. Once 
 
 ### Start streaming
 
-Go to the main page and create a stream. Add title and description of your stream. When clicking on the link you will see a page with a video player. To start streaming you have tp to copy id from URL and go to Settings in OBS player. Click to Stream Tab. In the Server field add `rtmp://localhost/live` and in Stream key paste you ID. 
+Go to the main page and create a stream. Add title and description of your stream. When clicking on the link you will see a page with a video player. To start streaming you have to copy id from URL and go to Settings in OBS player. Click to Stream Tab. In the Server field add `rtmp://localhost/live` and in Stream key paste you ID. 
 
 That's it. 
 
