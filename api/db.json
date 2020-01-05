@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Sream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Stream with IDs",
+      "description": "This is a different stream",
+      "id": 2
+    },
+    {
+      "title": "111",
+      "description": "222",
+      "id": 6
+    },
+    {
+      "title": "Adipisci magna lauda",
+      "description": "Tenetur sit voluptat",
+      "userId": "103530623212742256786",
+      "id": 7
+    }
+  ]
+}
